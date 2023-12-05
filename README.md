@@ -22,7 +22,7 @@ python3 main.py --input img.png --gauss
 ```
 ### Применение медианного фильтра
 ```
-python3 main.py --input img.png --gauss
+python3 main.py --input img.png --median
 ```
 ### Применение фильтра для увеличения четкости изображения
 ```
